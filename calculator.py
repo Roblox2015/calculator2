@@ -1,0 +1,10 @@
+a = float(input("веддите первое число:"))
+b = float(input("веддите второе число:"))
+с = a + b
+r = a - b
+f = a / b
+g = a * b
+print("+= "+ str(c))
+print("-= "+ str(r))
+print("*= "+ str(g))
+print("/= "+ str(f))
